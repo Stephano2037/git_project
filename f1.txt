@@ -5,4 +5,8 @@ d
 e
 third -my branch
 fourth - my branch
+<<<<<<< 86d876fa9f53252f2b5fb41dc788557fa169e2e4
 some hot fix
+=======
+기능 1 추가
+>>>>>>> 새로운 기능1 추가
